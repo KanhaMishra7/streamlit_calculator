@@ -17,4 +17,4 @@ Make sure you have Python installed on your machine. You will also need to insta
 ### Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/streamlit-calculator.git](https://github.com/YOUR-USERNAME/streamlit-calculator.git)
+   git clone [https://github.com/KanhaMishra7/streamlit-calculator.git](https://github.com/KanhaMishra7/streamlit-calculator.git)
