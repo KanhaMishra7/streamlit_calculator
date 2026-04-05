@@ -18,3 +18,12 @@ Make sure you have Python installed on your machine. You will also need to insta
 1. Clone this repository to your local machine:
    ```bash
    git clone [https://github.com/KanhaMishra7/streamlit-calculator.git](https://github.com/KanhaMishra7/streamlit-calculator.git)
+2. Navigate into the project directory:
+   ``` bash
+   cd streamlit-calculator
+4. Install the necessary dependencies:
+   ```bash
+   pip install -r requirements.txt
+5.Start the Streamlit server locally by running:
+  ```bash
+  streamlit run calculator.py
